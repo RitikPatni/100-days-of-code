@@ -7,3 +7,10 @@
 
 **Link to work:** [TwitchTV](https://ritikpatni.github.io/TwitchTV-FCC)
 
+### Day 2: June 11,2017
+**Today's Progress**: Worked with the TwitchTV JSON API project.
+
+**Thoughts:** Figured out how to deal with the API but still haven't implemented it.
+
+**Link to work:** [TwitchTV](https://ritikpatni.github.io/TwitchTV-FCC)
+
