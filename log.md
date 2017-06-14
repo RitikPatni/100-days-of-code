@@ -21,3 +21,16 @@
 
 **Link to work:** [TwitchTV](https://ritikpatni.github.io/TwitchTV-FCC)
 
+### Day 4: June 13,2017
+**Today's Progress**: Struggling with this project for too long. Still some things to be figured out.     
+
+**Thoughts:** Struggling hard with it and I hope that I will complete it before the end of the week.
+
+**Link to work:** [TwitchTV](https://ritikpatni.github.io/TwitchTV-FCC)
+
+### Day 5: June 14,2017
+**Today's Progress**: No progress just figuring out some things.
+
+**Thoughts:** No thoughts but hopeful that it will be done before the end of the week.
+
+**Link to work:** [TwitchTV](https://ritikpatni.github.io/TwitchTV-FCC)
