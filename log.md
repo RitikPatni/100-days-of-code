@@ -34,3 +34,26 @@
 **Thoughts:** No thoughts but hopeful that it will be done before the end of the week.
 
 **Link to work:** [TwitchTV](https://ritikpatni.github.io/TwitchTV-FCC)
+
+Day 6: June 15,2017
+
+Today's Progress: Done with the twitch and now moving on to intermediate algorithm section.
+
+Thoughts: Twitch TV was a tough one for me but an error of single '  "  ' (DOUBLE INVERTED COMMA) made it a lot more tougher(took me 2 days to figure it out).
+
+Link to work: TwitchTV
+
+Day 7: June 16,2017
+
+Today's Progress: Completed the first three problems from the intermediate algorithm section.
+
+Thoughts: First three were much easier than I expected them to be but I'm looking forward to the next ones.
+
+Link to work: No Link
+Day 8: June 17,2017
+
+Today's Progress: Dropped the intermediate algorithms for a while and started off with the Javascript Calculator.
+
+Thoughts: Intermediate algorithms were quite boring ones for me so I thought it would be better to move on.
+
+Link to work: ritikpatni.github.io/Calculator(Not even close to completion)
