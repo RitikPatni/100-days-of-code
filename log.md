@@ -58,3 +58,44 @@
 **Thoughts:** Intermediate algorithms were quite boring ones for me so I thought it would be better to move on.
 
 **Link to work:** [Calculator](https://ritikpatni.github.io/Calculator)(Not even close to completion)
+
+### Day 9: June 18,2017
+
+**Today's Progress:** Worked with the CSS of JS Calculator looks like I need to go back to learning jQuery 
+
+**Thoughts:** It looks like it will take time
+
+**Link to work:** [Calculator](https://ritikpatni.github.io/Calculator)(Not even close to completion)
+
+### Day 10: June 19,2017
+
+**Today's Progress:** Updated JS Calculator design but struggling with JS
+
+**Thoughts:** Much more to Work On
+
+**Link to work:** [Calculator](https://ritikpatni.github.io/Calculator)(Not even close to completion)
+
+### Day 11: June 20,2017
+
+**Today's Progress:** Started doing the Responsive Web Design Fundamentals course on Udacity 
+
+**Thoughts:** Looks good at first sight
+
+**Link to work:** No Working Link Available
+
+### Day 12: June 21,2017
+
+**Today's Progress:** Continued with Responsive Design Fundamentals.
+
+**Thoughts:**  Pretty awesome stuff
+
+**Link to work:** No Working Link Available
+
+### Day 13: June 22,2017
+
+**Today's Progress:** Continuing with the responsive Web
+
+**Thoughts:** It feels good to be working with responsive Web
+
+**Link to work:** No Working Link Available
+
