@@ -136,9 +136,15 @@
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 6: July 15,2017
-
 **Today's Progress:** Learning HTML5 Canvas Basics from @udacity 
 
 **Thoughts:** It is very useful stuff explained in easy language
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 6: July 15,2017
+**Today's Progress:** Completed intermediate js @udacity 
+
+**Thoughts:** That was actually tough still can't get it completely but yeah doing the arcade game clone will help me understand.
 
 **Link to work:** [Github](https://github.com/ritikpatni)
