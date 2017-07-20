@@ -142,23 +142,38 @@
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
-### Day 6: July 15,2017
+### Day 7: July 16,2017
 **Today's Progress:** Completed intermediate js @udacity 
 
 **Thoughts:** That was actually tough still can't get it completely but yeah doing the arcade game clone will help me understand.
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
-### Day 7: July 16,2017
+### Day 8: July 17,2017
 **Today's Progress:** Right now doing arcade game clone @udacity 
 
 **Thoughts:** HTML5 canvas is fun but it will still tske time for me to become comfortable with it
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
-### Day 8: July 17,2017
+### Day 9: July 18,2017
 **Today's Progress:** Struggling with arcade game clone @udacity
 
 **Thoughts:** This is a tough one
 
 **Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 10: July 19,2017
+**Today's Progress:** Almost done with Arcade game Clone
+
+**Thoughts:** This was a tough one
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 11: July 20,2017
+**Today's Progress:** Done with the Arcade game clone
+
+**Thoughts:** Now looking forward to the optimization
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
