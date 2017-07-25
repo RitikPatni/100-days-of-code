@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 10,2017
+## Day 1: June 10,2017
+
 **Today's Progress**: Worked with the TwitchTV JSON API project.
 
 **Thoughts:** I really struggled with the API and I'm still trying to figure it out hopefully I'll be able to complete it on day 2.
@@ -8,6 +9,7 @@
 **Link to work:** [TwitchTV](https://ritikpatni.me/TwitchTV-FCC)
 
 ### Day 2: June 11,2017
+
 **Today's Progress**: Worked with the TwitchTV JSON API project.
 
 **Thoughts:** Figured out how to deal with the API but still haven't implemented it.
@@ -15,6 +17,7 @@
 **Link to work:** [TwitchTV](https://ritikpatni.me/TwitchTV-FCC)
 
 ### Day 3: June 12,2017
+
 **Today's Progress**: Completed the API connectivity for TwitchTV took much longer then I expected.
 
 **Thoughts:** Still struggling with the CSS and Online/Offline buttons hopefully tomorrow I will be able to complete it.
@@ -22,13 +25,15 @@
 **Link to work:** [TwitchTV](https://ritikpatni.me/TwitchTV-FCC)
 
 ### Day 4: June 13,2017
-**Today's Progress**: Struggling with this project for too long. Still some things to be figured out.     
+
+**Today's Progress**: Struggling with this project for too long. Still some things to be figured out.
 
 **Thoughts:** Struggling hard with it and I hope that I will complete it before the end of the week.
 
 **Link to work:** [TwitchTV](https://ritikpatni.me/TwitchTV-FCC)
 
 ### Day 5: June 14,2017
+
 **Today's Progress**: No progress just figuring out some things.
 
 **Thoughts:** No thoughts but hopeful that it will be done before the end of the week.
@@ -61,7 +66,7 @@
 
 ### Day 9: June 18,2017
 
-**Today's Progress:** Worked with the CSS of JS Calculator looks like I need to go back to learning jQuery 
+**Today's Progress:** Worked with the CSS of JS Calculator looks like I need to go back to learning jQuery
 
 **Thoughts:** It looks like it will take time
 
@@ -77,7 +82,7 @@
 
 ### Day 11: June 20,2017
 
-**Today's Progress:** Started doing the Responsive Web Design Fundamentals course on Udacity 
+**Today's Progress:** Started doing the Responsive Web Design Fundamentals course on Udacity
 
 **Thoughts:** Looks good at first sight
 
@@ -100,7 +105,9 @@
 **Link to work:** No Working Link Available
 
 ## MISSED 15 DAYS SO RESTARTING IT AGAIN
+
 ### Day 1: July 10,2017
+
 **Today's Progress**: Restarted the 100DaysofCode Challenge continued with the front-End ND course @Udacity
 
 **Thoughts:** :Getting along with jQuery
@@ -108,55 +115,63 @@
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 2: July 11,2017
-**Today's Progress**: Continuing jQuery 
+
+**Today's Progress**: Continuing jQuery
 
 **Thoughts:** I'm Lovin' it
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 3: July 12,2017
-**Today's Progress**: Done with Javascript fundamentals @Udacity now moving on to intermediate JS  
+
+**Today's Progress**: Done with Javascript fundamentals @Udacity now moving on to intermediate JS
 
 **Thoughts:** It was actually easier than I thought
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 4: July 13,2017
-**Today's Progress**: Started with the intermediate JS section @udacity   
+
+**Today's Progress**: Started with the intermediate JS section @udacity
 
 **Thoughts:** It was harder than I expected
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 5: July 14,2017
-**Today's Progress**: Continuing with the intermediate JS section @udacity   
+
+**Today's Progress**: Continuing with the intermediate JS section @udacity
 
 **Thoughts:** Still some things are over my head
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 6: July 15,2017
-**Today's Progress:** Learning HTML5 Canvas Basics from @udacity 
+
+**Today's Progress:** Learning HTML5 Canvas Basics from @udacity
 
 **Thoughts:** It is very useful stuff explained in easy language
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 7: July 16,2017
-**Today's Progress:** Completed intermediate js @udacity 
+
+**Today's Progress:** Completed intermediate js @udacity
 
 **Thoughts:** That was actually tough still can't get it completely but yeah doing the arcade game clone will help me understand.
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 8: July 17,2017
-**Today's Progress:** Right now doing arcade game clone @udacity 
+
+**Today's Progress:** Right now doing arcade game clone @udacity
 
 **Thoughts:** HTML5 canvas is fun but it will still tske time for me to become comfortable with it
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 9: July 18,2017
+
 **Today's Progress:** Struggling with arcade game clone @udacity
 
 **Thoughts:** This is a tough one
@@ -164,6 +179,7 @@
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 10: July 19,2017
+
 **Today's Progress:** Almost done with Arcade game Clone
 
 **Thoughts:** This was a tough one
@@ -171,9 +187,49 @@
 **Link to work:** [Github](https://github.com/ritikpatni)
 
 ### Day 11: July 20,2017
+
 **Today's Progress:** Done with the Arcade game clone
 
 **Thoughts:** Now looking forward to the optimization
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
+### Day 12: July 21,2017
+
+**Today's Progress:** Started doing the final bits of my Udacity ND program
+
+**Thoughts:** Now looking forward to the removing Janks
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 13: July 22,2017
+
+**Today's Progress:** Struggling with the Neighbourhood Map
+
+**Thoughts:** Google maps api is tough
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 14: July 23,2017
+
+**Today's Progress:** Completed JasmineJS testing project
+
+**Thoughts:** Now looking forward to Removing janks(left Earlier)
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 15: July 24,2017
+
+**Today's Progress:** Optimization done
+
+**Thoughts:** Optimization was easier but removing janks took my time
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 16: July 26,2017
+
+**Today's Progress:** Done with the Neighbourhood Map
+
+**Thoughts:** Now looking forward to my Udacity ND
+
+**Link to work:** [Github](https://github.com/ritikpatni)
