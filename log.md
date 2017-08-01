@@ -226,10 +226,66 @@
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
-### Day 16: July 26,2017
+### Day 16: July 25,2017
 
 **Today's Progress:** Done with the Neighbourhood Map
 
 **Thoughts:** Now looking forward to my Udacity ND
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 17: July 26,2017
+
+**Today's Progress:** Heading back to FCC completed Calculator and Weather App.
+
+**Thoughts:** Still a lot of work needs to be done as I need to improve design of them
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 18: July 27,2017
+
+**Today's Progress:** Design almost complete and left for review Started Tic Tac Toe
+
+**Thoughts:** Getting the computer player to work is going to be a huge task
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 19: July 28,2017
+
+**Today's Progress:** Continuing the Tic Tac Toe
+
+**Thoughts:** Figuring out AI is my biggest challenge in Tic Tac Toe
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 20: July 29,2017
+
+**Today's Progress:** Review came for final Udacity project
+
+**Thoughts:** There are a lot of required improvements
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 21: July 30,2017
+
+**Today's Progress:** Almost Completed Neighbourhood Map
+
+**Thoughts:** Tomorrow should be the final day for completion
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 22: July 31,2017
+
+**Today's Progress:** Completed Neighbourhood Map
+
+**Thoughts:** Waiting for the review
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 23: August 01,2017
+
+**Today's Progress:** Got the Udacity ND
+
+**Thoughts:** Mission completed now next goal is FCC
 
 **Link to work:** [Github](https://github.com/ritikpatni)
