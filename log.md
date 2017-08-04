@@ -306,7 +306,7 @@
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
-### Day 23: August 04,2017
+### Day 26: August 04,2017
 
 **Today's Progress:** Completed React(Part-1) from Codecademy
 
