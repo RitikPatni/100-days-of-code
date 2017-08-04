@@ -289,3 +289,27 @@
 **Thoughts:** Mission completed now next goal is FCC
 
 **Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 24: August 02,2017
+
+**Today's Progress:** Started doing React from reacct documentation
+
+**Thoughts:** Documentation is pretty hard to understand
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 25: August 03,2017
+
+**Today's Progress:** Started React from Codecademy
+
+**Thoughts:** The best free resource I found to learn React
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 23: August 04,2017
+
+**Today's Progress:** Completed React(Part-1) from Codecademy
+
+**Thoughts:** Getting comfortable with JSX
+
+**Link to work:** [Github](https://github.com/ritikpatni)
