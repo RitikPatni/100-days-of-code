@@ -314,10 +314,18 @@
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
-### Day 27: August 04,2017
+### Day 27: August 05,2017
 
 **Today's Progress:** Completed React(Part-2) from Codecademy
 
 **Thoughts:** Looking forward to building with React
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 27: August 07,2017
+
+**Today's Progress:** Redoing my Weather Project
+
+**Thoughts:** This time with React
 
 **Link to work:** [Github](https://github.com/ritikpatni)
