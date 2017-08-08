@@ -322,10 +322,19 @@
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
-### Day 27: August 07,2017
+### Day 28: August 07,2017
 
 **Today's Progress:** Redoing my Weather Project
 
 **Thoughts:** This time with React
 
 **Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 29: August 07,2017
+
+**Today's Progress:** Stopped doing Weather in react(too tough) and started my First React App The todoApp
+
+**Thoughts:** Taking little steps
+
+**Link to work:** [Github](https://github.com/ritikpatni)
+
