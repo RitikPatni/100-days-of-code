@@ -330,7 +330,7 @@
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
-### Day 29: August 07,2017
+### Day 29: August 08,2017
 
 **Today's Progress:** Stopped doing Weather in react(too tough) and started my First React App The todoApp
 
@@ -338,3 +338,10 @@
 
 **Link to work:** [Github](https://github.com/ritikpatni)
 
+### Day 30: August 09,2017
+
+**Today's Progress:** First month done
+
+**Thoughts:** Working on todoApp
+
+**Link to work:** [Github](https://github.com/ritikpatni)
