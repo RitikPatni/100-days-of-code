@@ -345,3 +345,11 @@
 **Thoughts:** Working on todoApp
 
 **Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 31: August 10,2017
+
+**Today's Progress:** Back to Basics
+
+**Thoughts:** Worked on my old weather App project
+
+**Link to work:** [Check Your Weather](https://ritikpatni.me/Weather-FCC)
