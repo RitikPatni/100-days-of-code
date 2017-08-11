@@ -353,3 +353,11 @@
 **Thoughts:** Worked on my old weather App project
 
 **Link to work:** [Check Your Weather](https://ritikpatni.me/Weather-FCC)
+
+### Day 32: August 11,2017
+
+**Today's Progress:** Refreshed JS knowledge with SoloLearn
+
+**Thoughts:** Took me one hour to get the certificate but it was fun
+
+**Link to work:** [Github](https://github.com/ritikpatni)
