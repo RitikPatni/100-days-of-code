@@ -361,3 +361,11 @@
 **Thoughts:** Took me one hour to get the certificate but it was fun
 
 **Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 33: August 12,2017
+
+**Today's Progress:** Started doing design mockups for my next project
+
+**Thoughts:** Wireframing is actually fun
+
+**Link to work:** [Github](https://github.com/ritikpatni)
