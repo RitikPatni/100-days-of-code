@@ -369,3 +369,11 @@
 **Thoughts:** Wireframing is actually fun
 
 **Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 34: August 13,2017
+
+**Today's Progress:** Made refinements to my portfolio
+
+**Thoughts:** Getting how to use CSS black magic
+
+**Link to work:** [Ritik](https://ritikpatni.me)
