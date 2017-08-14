@@ -378,7 +378,7 @@
 
 **Link to work:** [Ritik](https://ritikpatni.me)
 
-### Day 34: August 14,2017
+### Day 35: August 14,2017
 
 **Today's Progress:** Redesigning my Weather project with materialize also did some practice with algorithms
 
