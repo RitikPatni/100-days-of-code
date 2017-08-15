@@ -385,3 +385,11 @@
 **Thoughts:** Codefights is awesome
 
 **Link to work:** [Github](https://github.com/ritikpatni)
+
+### Day 36: August 15,2017
+
+**Today's Progress:**Still Redesigning my Weather project
+
+**Thoughts:** Confused between full page or card layout
+
+**Link to work:** [Weather](https://ritikpatni.me/Weather-FCC)
