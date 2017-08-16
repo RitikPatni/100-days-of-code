@@ -393,3 +393,11 @@
 **Thoughts:** Confused between full page or card layout
 
 **Link to work:** [Weather](https://ritikpatni.me/Weather-FCC)
+
+### Day 37: August 15,2017
+
+**Today's Progress:**Completed weather project redesigning
+
+**Thoughts:** Still not happy with this but I had to move on
+
+**Link to work:** [Weather](https://ritikpatni.me/Weather-FCC)
