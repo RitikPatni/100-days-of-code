@@ -388,7 +388,7 @@
 
 ### Day 36: August 15,2017
 
-**Today's Progress:**Still Redesigning my Weather project
+**Today's Progress:** Still Redesigning my Weather project
 
 **Thoughts:** Confused between full page or card layout
 
@@ -396,8 +396,16 @@
 
 ### Day 37: August 15,2017
 
-**Today's Progress:**Completed weather project redesigning
+**Today's Progress:** Completed weather project redesigning
 
 **Thoughts:** Still not happy with this but I had to move on
 
 **Link to work:** [Weather](https://ritikpatni.me/Weather-FCC)
+
+### Day 38: August 16,2017
+
+**Today's Progress:** Redoing Quote Machine found out it was totally messed up earlier
+
+**Thoughts:** I was shocked when I saw Quote generator after learning a lot in Web **Completed Four months earlier** ***Feeling good after seeing how much progress I have made in past 4 months***
+
+**Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)***Not completed but you can read words of wisdom***
