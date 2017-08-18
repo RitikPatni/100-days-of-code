@@ -394,7 +394,7 @@
 
 **Link to work:** [Weather](https://ritikpatni.me/Weather-FCC)
 
-### Day 37: August 15,2017
+### Day 37: August 16,2017
 
 **Today's Progress:** Completed weather project redesigning
 
@@ -402,10 +402,18 @@
 
 **Link to work:** [Weather](https://ritikpatni.me/Weather-FCC)
 
-### Day 38: August 16,2017
+### Day 38: August 17,2017
 
 **Today's Progress:** Redoing Quote Machine found out it was totally messed up earlier
 
 **Thoughts:** I was shocked when I saw Quote generator after learning a lot in Web **Completed Four months earlier** ***Feeling good after seeing how much progress I have made in past 4 months***
+
+**Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)***Not completed but you can read words of wisdom***
+
+### Day 39: August 18,2017
+
+**Today's Progress:** Still not completed
+
+**Thoughts:** Tomorrow I'll be able to share it
 
 **Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)***Not completed but you can read words of wisdom***
