@@ -417,3 +417,11 @@
 **Thoughts:** Tomorrow I'll be able to share it
 
 **Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)***Not completed but you can read words of wisdom***
+
+### Day 40: August 19,2017
+
+**Today's Progress:** Finally done with the Quote Machine
+
+**Thoughts:** Finally I'll be able to fill my projects section tomorrow
+
+**Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)
