@@ -425,3 +425,11 @@
 **Thoughts:** Finally I'll be able to fill my projects section tomorrow
 
 **Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)
+
+### Day 41: August 20,2017
+
+**Today's Progress:** Did a lot of improvements on my portfolio
+
+**Thoughts:** Probably tommorow I'll add screenshots
+
+**Link to work:** [My Portfolio](https://ritikpatni.me)
