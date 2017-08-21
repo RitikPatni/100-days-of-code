@@ -433,3 +433,11 @@
 **Thoughts:** Probably tommorow I'll add screenshots
 
 **Link to work:** [My Portfolio](https://ritikpatni.me)
+
+### Day 42: August 21,2017
+
+**Today's Progress:** Javascript for Tic Tac Toe
+
+**Thoughts:** 2 player Tic Tac Toe is easy will soon work with computer player
+
+**Link to work:** [Tic-Tac-Toe](https://ritikpatni.me/Tic-Tac-Toe)
