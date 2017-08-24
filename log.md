@@ -441,3 +441,28 @@
 **Thoughts:** 2 player Tic Tac Toe is easy will soon work with computer player
 
 **Link to work:** [Tic-Tac-Toe](https://ritikpatni.me/Tic-Tac-Toe)
+
+### Day 43: August 22,2017
+
+**Today's Progress:** No the most productive day but did added a reset button to my Tic-Tac-Toe
+
+**Thoughts:** Lot of work needs to be done and I have to do better
+
+**Link to work:** [Tic-Tac-Toe](https://ritikpatni.me/Tic-Tac-Toe)
+
+
+### Day 44: August 23,2017
+
+**Today's Progress:** Started working on my first community project with 180-Days-of-Code
+
+**Thoughts:** Had to learn a lot of things but it was overall a fun experience'
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 45: August 24,2017
+
+**Today's Progress:** Tidied up CSS and used sass to make my code more descriptive
+
+**Thoughts:** Sass variables are awesome
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
