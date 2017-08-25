@@ -466,3 +466,11 @@
 **Thoughts:** Sass variables are awesome
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 46: August 25,2017
+
+**Today's Progress:** Working on 180-Days-Of-Code site it's now in pre-pre-alpha stage as I restarted it again
+
+**Thoughts:** It will be a lot of time before I will be able to complete the site but until then I will learn a lot
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
