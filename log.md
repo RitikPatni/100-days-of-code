@@ -474,3 +474,7 @@
 **Thoughts:** It will be a lot of time before I will be able to complete the site but until then I will learn a lot
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 46: August 26,2017
+
+***TOOK A BREAK WILL START AGAIN TOMORROW***
