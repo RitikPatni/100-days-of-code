@@ -478,3 +478,11 @@
 ### Day 46: August 26,2017
 
 ***TOOK A BREAK WILL START AGAIN TOMORROW***
+
+### Day 47: August 27,2017
+
+**Today's Progress:** Didn't do a lot just practiced some jQuery and JS
+
+**Thoughts:** Need to do a lot of work
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
