@@ -486,3 +486,19 @@
 **Thoughts:** Need to do a lot of work
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 48: August 28,2017
+
+**Today's Progress:** Renovating my old projects
+
+**Thoughts:** It looks easy now
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 49: August 29,2017
+
+**Today's Progress:** Still working with my old projects
+
+**Thoughts:** Looking at my own stupid mistakes Looks like I've traveled a lot since I started my journey
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
