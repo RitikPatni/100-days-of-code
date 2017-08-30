@@ -502,3 +502,11 @@
 **Thoughts:** Looking at my own stupid mistakes Looks like I've traveled a lot since I started my journey
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 50: August 30,2017
+
+**Today's Progress:** Back to Working on 180-Days-Of-Code site
+
+**Thoughts:** Started making building blocks to make it alive
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
