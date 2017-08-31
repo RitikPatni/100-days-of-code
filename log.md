@@ -510,3 +510,11 @@
 **Thoughts:** Started making building blocks to make it alive
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 51: August 31,2017
+
+**Today's Progress:** Still Working on 180-Days-Of-Code site
+
+**Thoughts:** It's still in pre-alpha but progress can be seen
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
