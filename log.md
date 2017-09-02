@@ -518,3 +518,20 @@
 **Thoughts:** It's still in pre-alpha but progress can be seen
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+
+### Day 52: September 1,2017
+
+**Today's Progress:** Worked on my portfolio
+
+**Thoughts:** I don't know if a portfolio can be completed or not
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 53: September 2,2017
+
+**Today's Progress:** Worked a lot on 180-Days-Of-Code site
+
+**Thoughts:** Trying to speed it up so that an alpha version can be launched
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
