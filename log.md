@@ -535,3 +535,12 @@
 **Thoughts:** Trying to speed it up so that an alpha version can be launched
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+
+### Day 54: September 3,2017
+
+**Today's Progress:** Cleaned up all my projects prepared full day for my first ever job interview
+
+**Thoughts:** I think I will be able to get my first achievement ***REJECTION***
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
