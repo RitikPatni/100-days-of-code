@@ -519,7 +519,6 @@
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
 
-
 ### Day 52: September 1,2017
 
 **Today's Progress:** Worked on my portfolio
