@@ -535,11 +535,18 @@
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
 
-
 ### Day 54: September 3,2017
 
 **Today's Progress:** Cleaned up all my projects prepared full day for my first ever job interview
 
 **Thoughts:** I think I will be able to get my first achievement ***REJECTION***
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 55: September 4,2017
+
+**Today's Progress:** First experiences are always beautiful even **Rejections**
+
+**Thoughts:** I have tp work more on my skills now
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
