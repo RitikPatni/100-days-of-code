@@ -450,7 +450,6 @@
 
 **Link to work:** [Tic-Tac-Toe](https://ritikpatni.me/Tic-Tac-Toe)
 
-
 ### Day 44: August 23,2017
 
 **Today's Progress:** Started working on my first community project with 180-Days-of-Code
@@ -547,6 +546,14 @@
 
 **Today's Progress:** First experiences are always beautiful even **Rejections**
 
-**Thoughts:** I have tp work more on my skills now
+**Thoughts:** I have to work more on my skills now
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 56: September 5,2017
+
+**Today's Progress:** Tested myself on pluralsight
+
+**Thoughts:** Now I know where I rank in my expertised areas so I can improve myself in a better way
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
