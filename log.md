@@ -557,3 +557,19 @@
 **Thoughts:** Now I know where I rank in my expertised areas so I can improve myself in a better way
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 57: September 6,2017
+
+**Today's Progress:** Reading some UI/UX design articles
+
+**Thoughts:** I don't know how deep I need to dive in to get the taste of becoming a good UI designer
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 58: September 7,2017
+
+**Today's Progress:** Refining my portfolio again
+
+**Thoughts:** I think I need to schedule a day a week for refining it now
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
