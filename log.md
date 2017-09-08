@@ -573,3 +573,11 @@
 **Thoughts:** I think I need to schedule a day a week for refining it now
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 59: September 8,2017
+
+**Today's Progress:** Found two new JS libraries to use in my portfolio***typedJS,AnimateCSS***
+
+**Thoughts:** Making my portfolio bigger and better with each passing day
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
