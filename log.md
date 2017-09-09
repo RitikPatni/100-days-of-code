@@ -581,3 +581,11 @@
 **Thoughts:** Making my portfolio bigger and better with each passing day
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 60: September 9,2017
+
+**Today's Progress:** Experimented with my Weather project
+
+**Thoughts:** Still not happy with my designs but I'm trying to improve Day by Day
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
