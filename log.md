@@ -589,3 +589,27 @@
 **Thoughts:** Still not happy with my designs but I'm trying to improve Day by Day
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 61: September 10,2017
+
+**Today's Progress:** Worked on creating a repository with all my reources
+
+**Thoughts:** Something for the community
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 62: September 11,2017
+
+**Today's Progress:** Experimented with my jQuery flip
+
+**Thoughts:** Learning newer and becoming better with each passing day
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 63: September 12,2017
+
+**Today's Progress:** Taking design inspirations from multiple sources
+
+**Thoughts:** Need to research a lot before making something
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
