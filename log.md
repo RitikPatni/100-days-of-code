@@ -613,3 +613,19 @@
 **Thoughts:** Need to research a lot before making something
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 64: September 13,2017
+
+**Today's Progress:** Doing the pomodoro
+
+**Thoughts:** Trying something different this time
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 64: September 14,2017
+
+**Today's Progress:** Stuck in the Pomodoro CSS
+
+**Thoughts:** CSS really is black magic
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
