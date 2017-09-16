@@ -622,10 +622,26 @@
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
 
-### Day 64: September 14,2017
+### Day 65: September 14,2017
 
 **Today's Progress:** Stuck in the Pomodoro CSS
 
 **Thoughts:** CSS really is black magic
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 66: September 15,2017
+
+**Today's Progress:** Playing with the pomodoro
+
+**Thoughts:** It is a lot tougher than I thought
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 67: September 16,2017
+
+**Today's Progress:** Pomodoro is really playing with me now
+
+**Thoughts:** Have to sharpen up my JS
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)### Day 64: September 14,2017
