@@ -644,4 +644,28 @@
 
 **Thoughts:** Have to sharpen up my JS
 
-**Link to work:** [GitHub](https://github.com/ritikpatni)### Day 64: September 14,2017
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 68: September 17,2017
+
+**Today's Progress:** Done with Pomodoro now only design refinements needed
+
+**Thoughts:** Still has a lot of bugs but will check them later
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 69: September 18,2017
+
+**Today's Progress:** Experimenting with projects to make them look better
+
+**Thoughts:** Still I need to explore a lot
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 70: September 19,2017
+
+**Today's Progress:** Learning new things with the updated FEND course with Udacity
+
+**Thoughts:** It's good to see refreshed content
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
