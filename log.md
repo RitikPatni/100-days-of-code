@@ -669,3 +669,11 @@
 **Thoughts:** It's good to see refreshed content
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 71: September 20,2017
+
+**Today's Progress:** ES6 is Awesome
+
+**Thoughts:** Learning new things with Udacity
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
