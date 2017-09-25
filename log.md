@@ -677,3 +677,43 @@
 **Thoughts:** Learning new things with Udacity
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 72: September 21,2017
+
+**Today's Progress:** Made Pixel Art Maker as part of Udacity updated curriculum
+
+**Thoughts:** It feels good to make something in just a couple of hours Even a micro one
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 73: September 22,2017
+
+**Today's Progress:** Started learning vue
+
+**Thoughts:** Looking forward to implement things with vue
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 74: September 23,2017
+
+**Today's Progress:** Experimented with a project
+
+**Thoughts:** Learned a lot of things while experimenting
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 75: September 24,2017
+
+**Today's Progress:** Contributed for the first time to Open Source
+
+**Thoughts:** Made a promise to myself to make sure to contribute to Open Source regularly
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 76: September 25,2017
+
+**Today's Progress:** Learned how to configure vue projects and use vue-cli
+
+**Thoughts:** Still in a huge confusion between React and Vue but looks like I'll go for Vue right now
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
