@@ -717,3 +717,11 @@
 **Thoughts:** Still in a huge confusion between React and Vue but looks like I'll go for Vue right now
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 77: September 25,2017
+
+**Today's Progress:** Had trouble while setting up the vue webpack template but finally I hope I'm done with it
+
+**Thoughts:** So it's my personal decision now to go with Vue totally unbiased will be able to comment more when I'll learn both the frameworks
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
