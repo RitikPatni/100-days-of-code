@@ -718,10 +718,50 @@
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
 
-### Day 77: September 25,2017
+### Day 77: September 26,2017
 
 **Today's Progress:** Had trouble while setting up the vue webpack template but finally I hope I'm done with it
 
 **Thoughts:** So it's my personal decision now to go with Vue totally unbiased will be able to comment more when I'll learn both the frameworks
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 78: September 27,2017
+
+**Today's Progress:** Learning new things with vue experienced how to set up routing in vue with vue-router
+
+**Thoughts:** Learned about vue typer too and thinking about better ways to use it.
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 79: September 28,2017
+
+**Today's Progress:** Only contributed to Freecodecamp Guides no coding at all
+
+**Thoughts:** It feels good to contribute to opensource
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 80: September 29,2017
+
+**Today's Progress:** Continued learning vue also started working on my portfolio with vue this time
+
+**Thoughts:** Getting comfortable with vue
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 81: September 30,2017
+
+**Today's Progress:** More vue and more experiments with my portfolio
+
+**Thoughts:** Lots of ideas in my idea will have to find ways to implement them
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 82: October 01,2017
+
+**Today's Progress:** Learning DOM manipulations with vue
+
+**Thoughts:** I've seen one side of DOM manipulations with jQuery and now I'm ready to view the another side so that I can draw a fair conclusion.
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
