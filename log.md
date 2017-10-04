@@ -765,3 +765,27 @@
 **Thoughts:** I've seen one side of DOM manipulations with jQuery and now I'm ready to view the another side so that I can draw a fair conclusion.
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 83: October 02,2017
+
+**Today's Progress:** A day off from coding but gave it for the open source contributions
+
+**Thoughts:** Contributing to someone else is always a great feeling
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 84: October 03,2017
+
+**Today's Progress:** Learning things to do with vanilla js So I can finally say goodbye jQuery
+
+**Thoughts:** Leaving jQuery is not the best decision but just learning things with vanilla so that I don't have to be dependent on jQuery **jQuery>Vanilla**
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 85: October 04,2017
+
+**Today's Progress:** Learned about sass selectors and conditionals
+
+**Thoughts:** It's a good feeling when you know you can program things in css too.
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
