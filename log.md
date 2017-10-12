@@ -784,8 +784,72 @@
 
 ### Day 85: October 04,2017
 
-**Today's Progress:** Learned about sass selectors and conditionals
+**Today's Progress:** Learnt about sass selectors and conditionals
 
 **Thoughts:** It's a good feeling when you know you can program things in css too.
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 86: October 05,2017
+
+**Today's Progress:** Stuck in the about me section of my Portfolio
+
+**Thoughts:** Looking for some design inspirations.
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 87: October 06,2017
+
+**Today's Progress:** Planning to start a new challenge to improve my CSS skills with DailyCSSImages challenge
+
+**Thoughts:** Right now trying to make a single page vue web app to manage those challenges
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 88: October 07,2017
+
+**Today's Progress:** Mixed day with a bit of vue with little open source contributions
+
+**Thoughts:** Looking forward to continue my open source contributions even after Hacktoberfest
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 89: October 08,2017
+
+**Today's Progress:** Refactored my own resource library
+
+**Thoughts:** It is already in a pretty good state with the help of contributors thanks to Hacktoberfest
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 90: October 09,2017
+
+**Today's Progress:** Learnt about testing with Travis Cl and also about greenkeeper to mnage dependencies
+
+**Thoughts:** Coding is only the half portion of any project So one should also give equal focus to testing in order to make a succesful product
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 91: October 10,2017
+
+**Today's Progress:** Tried vue-material 
+
+**Thoughts:** Was looking for a vue solution to material design now I can stick to it for some time
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 92: October 11,2017
+
+**Today's Progress:** No idea what to do with vue-router
+
+**Thoughts:** Looking for the error but no success yet
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 93: October 12,2017
+
+**Today's Progress:** Still struggling with vue-router.
+
+**Thoughts:** Third day in a row trying to figure out one problem but Still no sign of success
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
