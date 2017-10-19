@@ -853,3 +853,59 @@
 **Thoughts:** Third day in a row trying to figure out one problem but Still no sign of success
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 94: October 13,2017
+
+**Today's Progress:** Only managed to read some articles
+
+**Thoughts:** And the last week begins
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 95: October 14,2017
+
+**Today's Progress:** Messed up with vue-router Now starting from scratch
+
+**Thoughts:** Fixed vue-router Still no idea about the problem but starting from scratch helped me
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 96: October 15,2017
+
+**Today's Progress:** Tried to make PureCSS images and failed
+
+**Thoughts:** A lot of work still needs to be done to improve my CSS
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 97: October 16,2017
+
+**Today's Progress:** Fixed bugs in the pomodoro
+
+**Thoughts:** Time to improve my JS will start JS30 challenge tomorrow
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 98: October 17,2017
+
+**Today's Progress:** Completed Day1 Challenge in my JS30 challenges
+
+**Thoughts:** Preparing myself to face upcoming challenges
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 99: October 18,2017
+
+**Today's Progress:** Completed Day2 Challenge in my JS30 challenges
+
+**Thoughts:** JS-CSS clock was awesome looking toowards the next challenge
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
+
+### Day 100: October 12,2017
+
+**Today's Progress:** Round 1 completed with Day3 of JS30 challenge done
+
+**Thoughts:** Now I know how to manage CSS variables from JS
+
+**Link to work:** [GitHub](https://github.com/ritikpatni)
