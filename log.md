@@ -44,7 +44,7 @@
 
 **Today's Progress:** Done with the twitch and now moving on to intermediate algorithm section.
 
-**Thoughts:** Twitch TV was a tough one for me but an error of single '  "  ' (DOUBLE INVERTED COMMA) made it a lot more tougher(took me 2 days to figure it out).
+**Thoughts:** Twitch TV was a tough one for me but an error of single ' " ' (DOUBLE INVERTED COMMA) made it a lot more tougher(took me 2 days to figure it out).
 
 **Link to work:** [TwitchTV](https://ritikpatni.me/TwitchTV-FCC)
 
@@ -92,7 +92,7 @@
 
 **Today's Progress:** Continued with Responsive Design Fundamentals.
 
-**Thoughts:**  Pretty awesome stuff
+**Thoughts:** Pretty awesome stuff
 
 **Link to work:** No Working Link Available
 
@@ -406,9 +406,9 @@
 
 **Today's Progress:** Redoing Quote Machine found out it was totally messed up earlier
 
-**Thoughts:** I was shocked when I saw Quote generator after learning a lot in Web **Completed Four months earlier** ***Feeling good after seeing how much progress I have made in past 4 months***
+**Thoughts:** I was shocked when I saw Quote generator after learning a lot in Web **Completed Four months earlier** **_Feeling good after seeing how much progress I have made in past 4 months_**
 
-**Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)***Not completed but you can read words of wisdom***
+**Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)**_Not completed but you can read words of wisdom_**
 
 ### Day 39: August 18,2017
 
@@ -416,7 +416,7 @@
 
 **Thoughts:** Tomorrow I'll be able to share it
 
-**Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)***Not completed but you can read words of wisdom***
+**Link to work:** [Quote Generator](https://ritikpatni.me/Quote-Machine_FCC)**_Not completed but you can read words of wisdom_**
 
 ### Day 40: August 19,2017
 
@@ -476,7 +476,7 @@
 
 ### Day 46: August 26,2017
 
-***TOOK A BREAK WILL START AGAIN TOMORROW***
+**_TOOK A BREAK WILL START AGAIN TOMORROW_**
 
 ### Day 47: August 27,2017
 
@@ -538,7 +538,7 @@
 
 **Today's Progress:** Cleaned up all my projects prepared full day for my first ever job interview
 
-**Thoughts:** I think I will be able to get my first achievement ***REJECTION***
+**Thoughts:** I think I will be able to get my first achievement **_REJECTION_**
 
 **Link to work:** [GitHub](https://github.com/ritikpatni)
 
@@ -576,7 +576,7 @@
 
 ### Day 59: September 8,2017
 
-**Today's Progress:** Found two new JS libraries to use in my portfolio***typedJS,AnimateCSS***
+**Today's Progress:** Found two new JS libraries to use in my portfolio**_typedJS,AnimateCSS_**
 
 **Thoughts:** Making my portfolio bigger and better with each passing day
 
@@ -832,7 +832,7 @@
 
 ### Day 91: October 10,2017
 
-**Today's Progress:** Tried vue-material 
+**Today's Progress:** Tried vue-material
 
 **Thoughts:** Was looking for a vue solution to material design now I can stick to it for some time
 
